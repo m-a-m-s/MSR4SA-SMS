@@ -1,0 +1,1000 @@
+ID,Conference,Year,Authors,Item Title,Item DOI,URL,MSR,SA,Included?
+1,ECSA,2020,Siamak FarshidiSlinger Jansen,A Decision Support System for Pattern-Driven Software Architecture,10.1007/978-3-030-59155-7_6,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_6,No,Yes,No
+2,ECSA,2020,Sebastian FrankAndrÇ van Hoorn,SQuAT-Vis: Visualization and Interaction in Software Architecture Optimization,10.1007/978-3-030-59155-7_9,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_9,No,Yes,No
+3,ECSA,2020,Jasmin Jahi?Robin Roitsch,State of the Practice Survey: Predicting the Influence of AI Adoption on System Software Architecture in Traditional Embedded Systems,10.1007/978-3-030-59155-7_12,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_12,No,Yes,No
+4,ECSA,2020,Jason MashinchiJavier C†mara,Voyager: Software Architecture Trade-off Explorer,10.1007/978-3-030-59155-7_5,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_5,No,Yes,No
+5,ECSA,2020,Bahar SchwichtenbergGregor Engels,SecoArc: A Framework for Architecting Healthy Software Ecosystems,10.1007/978-3-030-59155-7_8,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_8,No,Yes,No
+6,ECSA,2020,Chinmaya DehuryPelle JakovitsSatish Narayana SriramaVasilis TountopoulosGiorgos Giotis,Data Pipeline Architecture for Serverless Platform,10.1007/978-3-030-59155-7_18,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_18,No,Yes,No
+7,ECSA,2020,Mubashir Ali,Big Data and Machine Intelligence in Software Platforms for Smart Cities,10.1007/978-3-030-59155-7_2,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_2,No,Yes,No
+8,ECSA,2020,Thomas KuhnPablo Oliveira AntoninoAdam Bachorek,A Simulator Coupling Architecture for the Creation of Digital Twins,10.1007/978-3-030-59155-7_25,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_25,No,Yes,No
+9,ECSA,2020,Thomas KuhnPablo Oliveira AntoninoFrank Schnicke,Industrie 4.0 Virtual Automation Bus Architecture,10.1007/978-3-030-59155-7_34,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_34,No,Yes,No
+10,ECSA,2020,Eoin Martino GruaMartina De SanctisPatricia Lago,A Reference Architecture for Personalized and Self-adaptive e-Health Apps,10.1007/978-3-030-59155-7_15,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_15,No,Yes,No
+11,ECSA,2020,Boris PÇrez,A Semiautomatic Approach to Identify Architectural Technical Debt from Heterogeneous Artifacts,10.1007/978-3-030-59155-7_1,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_1,No,Yes,No
+12,ECSA,2020,Frank SchnickeThomas KuhnPablo Oliveira Antonino,Enabling Industry 4.0 Service-Oriented Architecture Through Digital Twins,10.1007/978-3-030-59155-7_35,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_35,No,Yes,No
+13,ECSA,2020,Federico Quin,Systematic Approach to Engineer Decentralized Self-adaptive Systems,10.1007/978-3-030-59155-7_4,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_4,No,Yes,No
+14,ECSA,2020,Asfand YarAkram IdaniSimon Collart-Dutilleul,Merging Railway Standard Notations in a Formal DSL-Based Framework,10.1007/978-3-030-59155-7_30,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_30,No,Yes,No
+15,ECSA,2020,Sandro SpethUwe BreitenbÅcherSteffen Becker,Gropius ? A Tool for Managing Cross-component Issues,10.1007/978-3-030-59155-7_7,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_7,Yes,Yes,Yes
+16,ECSA,2020,Hariharan ThiagarajanJohn HatcliffRobby,Awas: AADL Information Flow and Error Propagation Analysis Framework,10.1007/978-3-030-59155-7_23,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_23,No,Yes,No
+17,ECSA,2020,Ivan KotegovAntonio Filieri,Towards Coordinated Autoscaling and Application Brownout at the Orchestrator Level,10.1007/978-3-030-59155-7_21,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_21,No,Yes,No
+18,ECSA,2020,An?e LuzarSa?o StanovnikMatija Cankar,Examination and Comparison of TOSCA Orchestration Tools,10.1007/978-3-030-59155-7_19,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_19,No,Yes,No
+19,ECSA,2020,Friederike DollingerRinat AsmusMarc Dreiser,System Health Indicators in Mixed Criticality E/E Systems in Automated Driving Context,10.1007/978-3-030-59155-7_36,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_36,No,Yes,No
+20,ECSA,2020,Roy JamilEmmanuel GrolleauBernard DautrevauxAntoine Bertout,Measurement-Based Timing Analysis on Heterogeneous MPSoCs: A Practical Approach,10.1007/978-3-030-59155-7_22,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_22,No,Yes,No
+21,ECSA,2020,Matija CankarAn?e LuzarDamian A. Tamburri,Auto-scaling Using TOSCA Infrastructure as Code,10.1007/978-3-030-59155-7_20,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_20,No,Yes,No
+22,ECSA,2020,Justus BognerStefan WagnerAlfred Zimmermann,Collecting Service-Based Maintainability Metrics from RESTful API Descriptions: Static Analysis and Threshold Derivation,10.1007/978-3-030-59155-7_16,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_16,No,Yes,No
+23,ECSA,2020,Sonya VonevaManar MazkatliJohannes GrohmannAnne Koziolek,Optimizing Parametric Dependencies for Incremental Performance Model Extraction,10.1007/978-3-030-59155-7_17,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_17,No,Yes,No
+24,ECSA,2020,Markus FrankAlireza HakamianStefen Becker,Defining a Formal Semantic for Parallel Patterns in the Palladio Component Model Using Hierarchical Queuing Petri Nets,10.1007/978-3-030-59155-7_28,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_28,No,Yes,No
+25,ECSA,2020,Ion BarosanArash Arjmandi BasmenjSudhanshu G. R. ChouhanDavid Manrique,Development of a Virtual Simulation Environment and a Digital Twin of an Autonomous Driving Truck for a Distribution Center,10.1007/978-3-030-59155-7_39,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_39,No,Yes,No
+26,ECSA,2020,Daniel Matusek,Decentralized Self-adaptation in Large-Scaled Systems of Systems,10.1007/978-3-030-59155-7_3,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_3,No,Yes,No
+27,ECSA,2020,Niranjana DeshpandeNaveen Sharma,Composition Algorithm Adaptation in Service Oriented Systems,10.1007/978-3-030-59155-7_13,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_13,No,Yes,No
+28,ECSA,2020,Elvinia RiccobenePatrizia Scandurra,Model-Based Simulation at Runtime with Abstract State Machines,10.1007/978-3-030-59155-7_29,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_29,No,Yes,No
+29,ECSA,2020,Barbora BuhnovaLucia Happe,Girl-Friendly Computer Science Classroom: Czechitas Experience Report,10.1007/978-3-030-59155-7_10,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_10,No,No,No
+30,ECSA,2020,Ana PetrovskaPatricia GoldbergAnne BrÅggemann-KleinAnne Nyokabi,Mining Gender Bias: A Preliminary Study on Implicit Biases and Gender Identity in the Department of Computer Science at the Technical University of Munich,10.1007/978-3-030-59155-7_11,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_11,No,No,No
+31,ECSA,2020,Matteo Camilli,Continuous Formal Verification of Microservice-Based Process Flows,10.1007/978-3-030-59155-7_31,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_31,No,Yes,No
+32,ECSA,2020,Mai AbusairMohammad SharafAntinisca Di MarcoPaola Inverardi,A Statistical Approach for Context-Awareness of Mobile Applications,10.1007/978-3-030-59155-7_14,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_14,No,Yes,No
+33,ECSA,2020,Bjîrn LeanderAida ?au?evi?Hans HanssonTomas Lindstrîm,Access Control for Smart Manufacturing Systems,10.1007/978-3-030-59155-7_33,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_33,No,Yes,No
+34,ECSA,2020,Thomas HutzelmannDominik MaukschAlexander Pretschner,How to Conduct Experiments with a Real Car? Experiences and Practical Guidelines,10.1007/978-3-030-59155-7_37,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_37,No,Yes,No
+35,ECSA,2020,Rasmus SvenssonAdell TatrousFrancis Palma,Defining Design Patterns for IoT APIs,10.1007/978-3-030-59155-7_32,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_32,Yes,Yes,Yes
+36,ECSA,2020,Hassan HageVahid HashemiFrank Mantwill,Towards a Systems Engineering Based Automotive Product Engineering Process,10.1007/978-3-030-59155-7_38,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_38,No,Yes,No
+37,ECSA,2020,Matthew CauwelsAbigail HammerBenjamin HertzPhillip H. JonesKristin Y. Rozier,Integrating Runtime Verification into an Automated UAS Traffic Management System,10.1007/978-3-030-59155-7_26,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_26,No,Yes,No
+38,ECSA,2020,Akram Idani,Dependability of Model-Driven Executable DSLs,10.1007/978-3-030-59155-7_27,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_27,No,Yes,No
+39,ECSA,2020,Karla MorrisColin SnookThai Son HoangGeoffrey HuletteRobert ArmstrongMichael Butler,Formal Verification of Run-to-Completion Style Statecharts Using Event-B,10.1007/978-3-030-59155-7_24,http://link.springer.com/chapter/10.1007/978-3-030-59155-7_24,No,Yes,No
+40,ECSA,2019,Ken PowerRebecca Wirfs-Brock,An Exploratory Study of Naturalistic Decision Making in Complex Software Architecture Environments,10.1007/978-3-030-29983-5_4,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_4,No,Yes,No
+41,ECSA,2019,Hasan Sîzer,Evaluating the Effectiveness of Multi-level Greedy Modularity Clustering for Software Architecture Recovery,10.1007/978-3-030-29983-5_5,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_5,Yes,Yes,Yes
+42,ECSA,2019,Axel BuschDominik Fuch·Maximilian EckertAnne Koziolek,Assessing the Quality Impact of Features in Component-Based Software Architectures,10.1007/978-3-030-29983-5_14,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_14,No,Yes,No
+43,ECSA,2019,Michael MayrhoferChristoph Mayr-DornAlois ZoitlOuijdane GuizaGeorg WeichhartAlexander Egyed,Assessing Adaptability of Software Architectures for Cyber Physical Production Systems,10.1007/978-3-030-29983-5_10,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_10,No,Yes,No
+44,ECSA,2019,Lu°s NunesNuno SantosAnt¢nio Rito Silva,From a Monolith to a Microservices Architecture: An Approach Based on Transactional Contexts,10.1007/978-3-030-29983-5_3,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_3,No,Yes,No
+45,ECSA,2019,Tobias WÑgemannRamin Tavakoli KolagariKlaus Schmid,ADOOPLA - Combining Product-Line- and Product-Level Criteria in Multi-objective Optimization of Product Line Architectures,10.1007/978-3-030-29983-5_9,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_9,No,Yes,No
+46,ECSA,2019,Martina De SanctisRomina SpalazzeseCatia Trubiani,QoS-Based Formation of Software Architectures in the Internet of Things,10.1007/978-3-030-29983-5_12,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_12,No,Yes,No
+47,ECSA,2019,Ilaria PigazziniFrancesca Arcelli FontanaAndrea Maggioni,Tool Support for the Migration to Microservice Architecture: An Industrial Case Study,10.1007/978-3-030-29983-5_17,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_17,No,Yes,No
+48,ECSA,2019,Somayeh MalakutiJohannes SchmittMarie Platenius-MohrSten GrÅnerRalf GitzelPrerna Bihani,A Four-Layer Architecture Pattern for Constructing and Managing Digital Twins,10.1007/978-3-030-29983-5_16,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_16,No,Yes,No
+49,ECSA,2019,Rajitha YasaweerasinghelageMark StaplesHye-Young PaikIngo Weber,"Optimising Architectures for Performance, Cost, and Security",10.1007/978-3-030-29983-5_11,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_11,No,Yes,No
+50,ECSA,2019,Evangelos NtentosUwe ZdunKonstantinos PlakidasDaniel SchallFei LiSebastian Meixner,Supporting Architectural Decision Making on Data Management in Microservice Architectures,10.1007/978-3-030-29983-5_2,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_2,No,Yes,No
+51,ECSA,2019,Angelika MusilJuergen MusilDanny WeynsStefan Biffl,Continuous Adaptation Management in Collective Intelligence Systems,10.1007/978-3-030-29983-5_8,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_8,No,Yes,No
+52,ECSA,2019,Amine El MalkiUwe Zdun,Guiding Architectural Decision Making on Service Mesh Based Microservice Architectures,10.1007/978-3-030-29983-5_1,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_1,No,Yes,No
+53,ECSA,2019,Camilo CastellanosBoris PÇrezCarlos A. VarelaMar°a del Pilar VillamilDario Correal,A Survey on Big Data Analytics Solutions Deployment,10.1007/978-3-030-29983-5_13,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_13,No,Yes,No
+54,ECSA,2019,David Issa MattosJan BoschHelena Holmstrîm Olsson,ACE: Easy Deployment of Field Optimization Experiments,10.1007/978-3-030-29983-5_18,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_18,No,Yes,No
+55,ECSA,2019,Matthias GalsterFabian GilsonFranáois Georis,What Quality Attributes Can We Find in Product Backlogs? A Machine Learning Perspective,10.1007/978-3-030-29983-5_6,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_6,Yes,Yes,Yes
+56,ECSA,2019,Ivan LujicHong-Linh Truong,Architecturing Elastic Edge Storage Services for Data-Driven Decision Making,10.1007/978-3-030-29983-5_7,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_7,No,Yes,No
+57,ECSA,2019,Michael Striewe,Components and Design Alternatives in E-Assessment Systems,10.1007/978-3-030-29983-5_15,http://link.springer.com/chapter/10.1007/978-3-030-29983-5_15,No,Yes,No
+58,ECSA,2018,Henry MucciniMahyar Tourchi Moghaddam,IoT Architectural Styles,10.1007/978-3-030-00761-4_5,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_5,No,Yes,No
+59,ECSA,2018,Georg BuchgeherRainer WeinreichHeinz Huber,A Platform for the Automated Provisioning of Architecture Information for Large-Scale Service-Oriented Software Systems,10.1007/978-3-030-00761-4_14,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_14,No,Yes,No
+60,ECSA,2018,Wensheng WuYuanfang CaiRick KazmanRan MoZhipeng LiuRongbiao ChenYingan GeWeicai LiuJunhui Zhang,Software Architecture Measurement?Experiences from a Multinational Company,10.1007/978-3-030-00761-4_20,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_20,No,Yes,No
+61,ECSA,2018,Konstantinos PlakidasDaniel SchallUwe Zdun,Software Migration and Architecture Evolution with Industrial Platforms: A Multi-case Study,10.1007/978-3-030-00761-4_22,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_22,No,Yes,No
+62,ECSA,2018,Pablo Oliveira AntoninoMatthias JungAndreas MorgensternFlorian Fa·nachtThomas BauerAdam BachorekThomas KuhnElisa Yumi Nakagawa,Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes,10.1007/978-3-030-00761-4_8,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_8,No,Yes,No
+63,ECSA,2018,Flavio Oquendo,Formally Describing Self-organizing Architectures for Systems-of-Systems on the Internet-of-Things,10.1007/978-3-030-00761-4_2,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_2,No,Yes,No
+64,ECSA,2018,John SprayRoopak Sinha,Abstraction Layered Architecture: Writing Maintainable Embedded Code,10.1007/978-3-030-00761-4_9,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_9,No,Yes,No
+65,ECSA,2018,Ken PowerRebecca Wirfs-Brock,Understanding Architecture Decisions in Context,10.1007/978-3-030-00761-4_19,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_19,No,Yes,No
+66,ECSA,2018,Danny WeynsM. Usman IftikharDanny HughesNelson Matthys,Applying Architecture-Based Adaptation to Automate the Management of Internet-of-Things,10.1007/978-3-030-00761-4_4,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_4,No,Yes,No
+67,ECSA,2018,Yves SchneiderAxel BuschAnne Koziolek,Using Informal Knowledge for Improving Software Quality Trade-Off Decisions,10.1007/978-3-030-00761-4_18,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_18,No,Yes,No
+68,ECSA,2018,Henrik Bërbak Christensen,Crunch: Automated Assessment of Microservice Architecture Assignments with Formative Feedback,10.1007/978-3-030-00761-4_12,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_12,No,Yes,No
+69,ECSA,2018,Alberto AvritzerVincenzo FermeAndrea JanesBarbara RussoHenning SchulzAndrÇ van Hoorn,A Quantitative Approach for the Assessment of Microservice Architecture Deployment Alternatives by Automated Performance Testing,10.1007/978-3-030-00761-4_11,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_11,No,Yes,No
+70,ECSA,2018,Mohamed Lamine KerdoudiChouki TibermacineSalah Sadou,Spotlighting Use Case Specific Architectures,10.1007/978-3-030-00761-4_16,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_16,No,Yes,No
+71,ECSA,2018,Femke HeijenkMartin van den BergHenrik LeopoldHans van VlietRaymond Slot,Empirical Insights into the Evolving Role of Architects in Decision-Making in an Agile Context,10.1007/978-3-030-00761-4_17,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_17,No,Yes,No
+72,ECSA,2018,Antonio MartiniFrancesca Arcelli FontanaAndrea BiaggiRiccardo Roveda,Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company,10.1007/978-3-030-00761-4_21,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_21,Yes,Yes,Yes
+73,ECSA,2018,Christopher GerkingDavid Schubert,Towards Preserving Information Flow Security on Architectural Composition of Cyber-Physical Systems,10.1007/978-3-030-00761-4_10,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_10,No,Yes,No
+74,ECSA,2018,Davi MonteiroRìmulo GadelhaPaulo Henrique M. MaiaLincoln S. RochaNabor C. Mendonáa,Beethoven: An Event-Driven Lightweight Platform for Microservice Orchestration,10.1007/978-3-030-00761-4_13,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_13,No,Yes,No
+75,ECSA,2018,Camilo CastellanosDario CorrealJuliana-Davila Rodriguez,Executing Architectural Models for Big Data Analytics,10.1007/978-3-030-00761-4_24,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_24,No,Yes,No
+76,ECSA,2018,Somayeh MalakutiThomas GoldschmidtHeiko Koziolek,A Catalogue of Architectural Decisions for Designing IIoT Systems,10.1007/978-3-030-00761-4_7,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_7,No,Yes,No
+77,ECSA,2018,Fahed AlkhabbasRomina SpalazzesePaul Davidsson,ECo-IoT: An Architectural Approach for Realizing Emergent Configurations in the Internet of Things,10.1007/978-3-030-00761-4_6,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_6,No,Yes,No
+78,ECSA,2018,Lukas MÑrtinNils-AndrÇ ForjahnAnne KoziolekRalf Reussner,Guidance of Architectural Changes in Technical Systems with Varying Operational Modes,10.1007/978-3-030-00761-4_3,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_3,No,Yes,No
+79,ECSA,2018,Katja TumaRiccardo Scandariato,Two Architectural Threat Analysis Techniques Compared,10.1007/978-3-030-00761-4_23,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_23,No,Yes,No
+80,ECSA,2018,Chii ChangSatish Narayana Srirama,Providing Context as a Service Using Service-Oriented Mobile Indie Fog and Opportunistic Computing,10.1007/978-3-030-00761-4_15,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_15,No,Yes,No
+81,ECSA,2018,Paolo ArcainiRaffaela MirandolaElvinia RiccobenePatrizia Scandurra,A DSL for MAPE Patterns Representation in Self-adapting Systems,10.1007/978-3-030-00761-4_1,http://link.springer.com/chapter/10.1007/978-3-030-00761-4_1,No,Yes,No
+82,ECSA,2017,Eoin WoodsRabih Bashroush,A Model for Prioritization of Software Architecture Effort,10.1007/978-3-319-65831-5_13,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_13,No,Yes,No
+83,ECSA,2017,Andrew LeighMichel WermelingerAndrea Zisman,Software Architecture Risk Containers,10.1007/978-3-319-65831-5_12,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_12,No,Yes,No
+84,ECSA,2017,Andrzej ZalewskiKlara BorowaAndrzej Ratkowski,On Cognitive Biases in Architecture Decision Making,10.1007/978-3-319-65831-5_9,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_9,No,Yes,No
+85,ECSA,2017,Mohammad SharafMoamin AbughazalaHenry MucciniMai Abusair,An Architecture Framework for Modelling and Simulation of Situational-Aware Cyber-Physical Systems,10.1007/978-3-319-65831-5_7,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_7,No,Yes,No
+86,ECSA,2017,Juarez L. M. FilhoLincoln RochaRossana AndradeRicardo Britto,Preventing Erosion in Exception Handling Design Using Static-Architecture Conformance Checking,10.1007/978-3-319-65831-5_5,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_5,No,Yes,No
+87,ECSA,2017,Javier C†maraDavid GarlanBradley Schmerl,Synthesis and Quantitative Verification of Tradeoff Spaces for Families of Software Systems,10.1007/978-3-319-65831-5_1,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_1,No,Yes,No
+88,ECSA,2017,Stefan HaselbîckRainer WeinreichGeorg Buchgeher,"Decision Models for Microservices: Design Areas, Stakeholders, Use Cases, and Requirements",10.1007/978-3-319-65831-5_11,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_11,No,Yes,No
+89,ECSA,2017,Chen YangPeng LiangParis AvgeriouUlf EliassonRogardt HeldalPatrizio Pelliccione,Architectural Assumptions and Their Management in Industry ? An Exploratory Study,10.1007/978-3-319-65831-5_14,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_14,No,Yes,No
+90,ECSA,2017,Georg BuchgeherMario WintererRainer WeinreichJohannes LugerRoland WingelhoferMario Aistleitner,Microservices in a Small Development Organization,10.1007/978-3-319-65831-5_15,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_15,No,Yes,No
+91,ECSA,2017,Catia TrubianiRaffaela Mirandola,Continuous Rearchitecting of QoS Models: Collaborative Analysis for Uncertainty Reduction,10.1007/978-3-319-65831-5_3,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_3,No,Yes,No
+92,ECSA,2017,Federico GiaimoChristian BergerCrispin Kirchner,Considerations About Continuous Experimentation for Resource-Constrained Platforms in Self-driving Vehicles,10.1007/978-3-319-65831-5_6,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_6,No,Yes,No
+93,ECSA,2017,Thanh Dat NguyenYassine OuhammouEmmanuel Grolleau,PARAD Repository: On the Capitalization of the Performance Analysis Process for AADL Designs,10.1007/978-3-319-65831-5_2,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_2,No,No,No
+94,ECSA,2017,Manoj BhatKlym ShumaievAndreas BiesdorfUwe HohensteinFlorian Matthes,Automatic Extraction of Design Decisions from Issue Management Systems: A Machine Learning Based Approach,10.1007/978-3-319-65831-5_10,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_10,Yes,Yes,Yes
+95,ECSA,2017,Georgios DigkasMircea LunguAlexander ChatzigeorgiouParis Avgeriou,The Evolution of Technical Debt in the Apache Ecosystem,10.1007/978-3-319-65831-5_4,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_4,Yes,Yes,Yes
+96,ECSA,2017,Narges Khakpour,Control of Self-adaptation Under Partial Observation: A Modular Approach,10.1007/978-3-319-65831-5_8,http://link.springer.com/chapter/10.1007/978-3-319-65831-5_8,No,Yes,No
+97,ECSA,2016,Flavio Oquendo,Software Architecture Challenges and Emerging Research in Software-Intensive Systems-of-Systems,10.1007/978-3-319-48992-6_1,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_1,No,Yes,No
+98,ECSA,2016,Zoya AlexeevaDiego Perez-PalacinRaffaela Mirandola,Design Decision Documentation: A Literature Overview,10.1007/978-3-319-48992-6_6,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_6,No,Yes,No
+99,ECSA,2016,Sandun DasanayakeJouni MarkkulaSanja AaramaaMarkku Oivo,An Empirical Study on Collaborative Architecture Decision Making in Software Teams,10.1007/978-3-319-48992-6_18,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_18,No,Yes,No
+100,ECSA,2016,Ersin ErsoyKamer KayaMetin Alt?n???kHasan Sîzer,Using Hypergraph Clustering for Software Architecture Reconstruction of Data-Tier Software,10.1007/978-3-319-48992-6_24,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_24,Yes,Yes,Yes
+101,ECSA,2016,Flavio OquendoJair LeiteThais Batista,Executing Software Architecture Descriptions with SysADL,10.1007/978-3-319-48992-6_9,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_9,No,Yes,No
+102,ECSA,2016,Adel HassanAudrey QueudetMourad Oussalah,Evolution Style: Framework for Dynamic Evolution of Real-Time Software Architecture,10.1007/978-3-319-48992-6_12,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_12,No,Yes,No
+103,ECSA,2016,Dalia SobhyRami BahsoonLeandro MinkuRick Kazman,Diversifying Software Architecture for Sustainability: A Value-Based Perspective,10.1007/978-3-319-48992-6_4,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_4,No,Yes,No
+104,ECSA,2016,Courtney SchriekJan Martijn E. M. van der WerfAntony TangFloris Bex,Software Architecture Design Reasoning: A Card Game to Help Novice Designers,10.1007/978-3-319-48992-6_2,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_2,No,Yes,No
+105,ECSA,2016,Sandra SchrîderMatthias RiebischMohamed Soliman,Architecture Enforcement Concerns and Activities - An Expert Study,10.1007/978-3-319-48992-6_19,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_19,No,Yes,No
+106,ECSA,2016,Antonio BrogiJose CarrascoJavier CuboFrancesco D?AndriaElisabetta Di NittoMichele GuerrieroDiego PÇrezErnesto PimentelJacopo Soldani,SeaClouds: An Open Reference Architecture for Multi-cloud Governance,10.1007/978-3-319-48992-6_25,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_25,No,Yes,No
+107,ECSA,2016,Everton CavalcanteJean QuilbeufLouis-Marie TraonouezFlavio OquendoThais BatistaAxel Legay,Statistical Model Checking of Dynamic Software Architectures,10.1007/978-3-319-48992-6_14,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_14,No,Yes,No
+108,ECSA,2016,Zakarea AlsharaAbdelhak-Djamel SeriaiChouki TibermacineHinde Lilia BouzianeChristophe DonyAnas Shatnawi,Materializing Architecture Recovered from Object-Oriented Source Code in Component-Based Languages,10.1007/978-3-319-48992-6_23,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_23,No,Yes,No
+109,ECSA,2016,Tobias HolsteinJoachim Wietzke,Towards an Architecture for an UI-Compositor for Multi-OS Environments,10.1007/978-3-319-48992-6_10,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_10,No,Yes,No
+110,ECSA,2016,Soraya Mesli-KesraouiDjamal KesraouiFlavio OquendoAlain BignonArmand ToguyeniPascal Berruet,Formal Verification of Software-Intensive Systems Architectures Described with Piping and Instrumentation Diagrams,10.1007/978-3-319-48992-6_16,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_16,No,Yes,No
+111,ECSA,2016,Bradley SchmerlJeff GennariAlireza SadeghiHamid BagheriSam MalekJavier C†maraDavid Garlan,Architecture Modeling and Analysis of Security in Android Systems,10.1007/978-3-319-48992-6_21,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_21,No,Yes,No
+112,ECSA,2016,Robert HeimOliver KautzJan Oliver RingertBernhard RumpeAndreas Wortmann,Retrofitting Controlled Dynamic Reconfiguration into the Architecture Description Language MontiArcAutomaton,10.1007/978-3-319-48992-6_13,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_13,No,Yes,No
+113,ECSA,2016,Dominik RostMatthias Naab,Task-Specific Architecture Documentation for Developers,10.1007/978-3-319-48992-6_7,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_7,No,Yes,No
+114,ECSA,2016,Ilias GerostathopoulosDominik SkodaFrantisek PlasilTomas BuresAlessia Knauss,Architectural Homeostasis in Self-Adaptive Software-Intensive Cyber-Physical Systems,10.1007/978-3-319-48992-6_8,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_8,No,Yes,No
+115,ECSA,2016,Jasper SchenkhuizenJan Martijn E. M. van der WerfSlinger JansenLambert Caljouw,Consistent Inconsistency Management: A Concern-Driven Approach,10.1007/978-3-319-48992-6_15,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_15,No,Yes,No
+116,ECSA,2016,Samuil AngelovMarcel MeestersMatthias Galster,Architects in Scrum: What Challenges Do They Face?,10.1007/978-3-319-48992-6_17,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_17,No,Yes,No
+117,ECSA,2016,Ashish AgrawalT. V. Prabhakar,Towards a Framework for Building SaaS Applications Operating in Diverse and Dynamic Environments,10.1007/978-3-319-48992-6_22,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_22,No,Yes,No
+118,ECSA,2016,Theo TheunissenUwe van Heesch,The Disappearance of Technical Specifications in Web and Mobile Applications,10.1007/978-3-319-48992-6_20,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_20,No,Yes,No
+119,ECSA,2016,Christel KaptoGhizlane El BoussaidiSägla KpodjedoChouki Tibermacine,Inferring Architectural Evolution from Source Code Analysis,10.1007/978-3-319-48992-6_11,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_11,Yes,Yes,Yes
+120,ECSA,2016,Gianantonio MeCoral CaleroPatricia Lago,A Long Way to Quality-Driven Pattern-Based Architecting,10.1007/978-3-319-48992-6_3,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_3,No,Yes,No
+121,ECSA,2016,Hadil AbukwaikMohammed AbujayyabDieter Rombach,Towards Seamless Analysis of Software Interoperability: Automatic Identification of Conceptual Constraints in API Documentation,10.1007/978-3-319-48992-6_5,http://link.springer.com/chapter/10.1007/978-3-319-48992-6_5,No,Yes,No
+122,ECSA,2015,Samuil AngelovPatrick de Beer,An Approach to Software Architecting in Agile Software Development Projects in Education,10.1007/978-3-319-23727-5_13,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_13,No,Yes,No
+123,ECSA,2015,Arvind W. KiwelekarHansaraj S. Wankhede,Learning Objectives for a Course on Software Architecture,10.1007/978-3-319-23727-5_14,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_14,No,Yes,No
+124,ECSA,2015,Zhenchen WangAndrea Capiluppi,A Specialised Social Network Software Architecture for Efficient Household Water Use Management,10.1007/978-3-319-23727-5_12,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_12,No,Yes,No
+125,ECSA,2015,Matthias GalsterSamuil Angelov,Understanding the Use of Reference Architectures in Agile Software Development Projects,10.1007/978-3-319-23727-5_22,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_22,No,Yes,No
+126,ECSA,2015,Claus PahlPooyan Jamshidi,"Software Architecture for the Cloud ? A Roadmap Towards Control-Theoretic, Model-Based Cloud Architecture",10.1007/978-3-319-23727-5_17,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_17,No,Yes,No
+127,ECSA,2015,Dominik RostBalthasar WeitzelMatthias NaabTorsten LenhartHartmut Schmitt,Distilling Best Practices for Agile Development from Architecture Methodology,10.1007/978-3-319-23727-5_21,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_21,No,Yes,No
+128,ECSA,2015,Catia TrubianiAchraf GhabiAlexander Egyed,Exploiting Traceability Uncertainty Between Software Architectural Models and Performance Analysis Results,10.1007/978-3-319-23727-5_26,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_26,No,Yes,No
+129,ECSA,2015,Simone da Silva AmorimJohn D. McGregorEduardo Santana de AlmeidaChristina von Flach G. Chavez,Tailoring the ATAM for Software Ecosystems,10.1007/978-3-319-23727-5_30,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_30,No,Yes,No
+130,ECSA,2015,Mojtaba ShahinMuhammad Ali Babar,Improving the Quality of Architecture Design Through Peer-Reviews and Recombination,10.1007/978-3-319-23727-5_6,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_6,No,Yes,No
+131,ECSA,2015,Iris GroherRainer Weinreich,Collecting Requirements and Ideas for Architectural Group Decision-Making Based on Four Approaches,10.1007/978-3-319-23727-5_15,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_15,No,Yes,No
+132,ECSA,2015,Nadeem AbbasJesper Andersson,Architectural Reasoning Support for Product-Lines of Self-adaptive Software Systems - A Case Study,10.1007/978-3-319-23727-5_2,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_2,No,Yes,No
+133,ECSA,2015,Slinger Jansen,Opening the Ecosystem Flood Gates: Architecture Challenges of Opening Interfaces Within a Product Portfolio,10.1007/978-3-319-23727-5_10,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_10,No,Yes,No
+134,ECSA,2015,Erik A. JagroepJan Martijn E. M. van der WerfRuvar SpauwenLeen BlomRob van VlietSjaak Brinkkemper,An Energy Consumption Perspective on Software Architecture,10.1007/978-3-319-23727-5_19,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_19,No,Yes,No
+135,ECSA,2015,Sahar KallelBastien TramoniChouki TibermacineChristophe DonyAhmed Hadj Kacem,Automatic Translation of Architecture Constraint Specifications into Components,10.1007/978-3-319-23727-5_27,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_27,No,Yes,No
+136,ECSA,2015,Frederico AlvaresEric RuttenLionel Seinturier,High-Level Language Support for Reconfiguration Control in Component-Based Architectures,10.1007/978-3-319-23727-5_1,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_1,No,Yes,No
+137,ECSA,2015,Christian StierAnne KoziolekHenning GroendaRalf Reussner,Model-Based Energy Efficiency Analysis of Software Architectures,10.1007/978-3-319-23727-5_18,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_18,No,Yes,No
+138,ECSA,2015,Alvine Boaye BelleGhizlane El BoussaidiChristian DesrosiersSägla KpodjedoHafedh Mili,The Layered Architecture Recovery as a Quadratic Assignment Problem,10.1007/978-3-319-23727-5_28,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_28,No,Yes,No
+139,ECSA,2015,Amal TahriLaurence DuchienJacques Pulou,Using Feature Models for Distributed Deployment in Extended Smart Home Architecture,10.1007/978-3-319-23727-5_24,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_24,No,Yes,No
+140,ECSA,2015,Luciano BaresiAdnan Shahzada,An Architecture-Centric Approach for Dynamic Smart Spaces,10.1007/978-3-319-23727-5_23,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_23,No,Yes,No
+141,ECSA,2015,Klaus Marius HansenKonstantinos Manikas,(Automated) Software Modularization Using Community Detection,10.1007/978-3-319-23727-5_8,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_8,No,Yes,No
+142,ECSA,2015,Antony TangHans van Vliet,Software Designers Satisfice,10.1007/978-3-319-23727-5_9,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_9,No,Yes,No
+143,ECSA,2015,Eduardo B. FernandezHern†n AstudilloGilberto Pedraza-Garc°a,Revisiting Architectural Tactics for Security,10.1007/978-3-319-23727-5_5,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_5,No,Yes,No
+144,ECSA,2015,Henry MucciniDamian A. TamburriV. Smrithi Rekha,On the Social Dimensions of Architectural Decisions,10.1007/978-3-319-23727-5_11,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_11,No,Yes,No
+145,ECSA,2015,Grace A. LewisPatricia Lago,Characterization of Cyber-Foraging Usage Contexts,10.1007/978-3-319-23727-5_16,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_16,No,Yes,No
+146,ECSA,2015,Ashish AgrawalT. V. Prabhakar,Towards a Framework for Building Adaptive App-Based Web Applications Using Dynamic Appification,10.1007/978-3-319-23727-5_3,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_3,No,Yes,No
+147,ECSA,2015,Harald SporerGeorg MacherChristian KreinerEugen Brenner,A Lean Automotive E/E-System Design Approach with Integrated Requirements Management Capability,10.1007/978-3-319-23727-5_20,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_20,No,Yes,No
+148,ECSA,2015,Florian RademacherMartin PetersSabine Sachweh,Design of a Domain-Specific Language Based on a Technology-Independent Web Service Framework,10.1007/978-3-319-23727-5_29,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_29,No,Yes,No
+149,ECSA,2015,Daniel RomeroClÇment QuintonLaurence DuchienLionel SeinturierCarolina Valdez,SmartyCo: Managing Cyber-Physical Systems for Smart Environments,10.1007/978-3-319-23727-5_25,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_25,No,Yes,No
+150,ECSA,2015,Ilias GerostathopoulosTomas BuresPetr HnetynkaAdam HujecekFrantisek PlasilDominik Skoda,Meta-Adaptation Strategies for Adaptation in Cyber-Physical Systems,10.1007/978-3-319-23727-5_4,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_4,No,Yes,No
+151,ECSA,2015,Cesare PautassoAna IvanchikjSilvia Schreier,Modeling RESTful Conversations with Extended BPMN Choreography Diagrams,10.1007/978-3-319-23727-5_7,http://link.springer.com/chapter/10.1007/978-3-319-23727-5_7,No,Yes,No
+152,ECSA,2014,Samuil AngelovRich Hilliard,Towards an Improved Stakeholder Management for Software Reference Architectures,10.1007/978-3-319-09970-5_9,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_9,No,Yes,No
+153,ECSA,2014,Smrithi Rekha V.Henry Muccini,Suitability of Software Architecture Decision Making Methods for Group Decisions,10.1007/978-3-319-09970-5_2,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_2,No,Yes,No
+154,ECSA,2014,Rainer WeinreichIris Groher,A Fresh Look at Codification Approaches for SAKM: A Systematic Literature Review,10.1007/978-3-319-09970-5_1,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_1,No,Yes,No
+155,ECSA,2014,Mohamed SolimanMatthias Riebisch,Modeling the Interactions between Decisions within Software Architecture Knowledge,10.1007/978-3-319-09970-5_3,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_3,No,Yes,No
+156,ECSA,2014,Thomas KriechbaumGeorg BuchgeherRainer Weinreich,Service Development and Architecture Management for an Enterprise SOA,10.1007/978-3-319-09970-5_17,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_17,No,Yes,No
+157,ECSA,2014,Krzysztof Jamr¢zDariusz PitulejJan Werewka,Adapting Enterprise Architecture at a Software Development Company and the Resultant Benefits,10.1007/978-3-319-09970-5_16,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_16,No,Yes,No
+158,ECSA,2014,Carlos Alberto MachadoEduardo SilvaThais BatistaJair LeiteElisa Nakagawa,RA-Ubi: A Reference Architecture for Ubiquitous Computing,10.1007/978-3-319-09970-5_10,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_10,No,Yes,No
+159,ECSA,2014,Juergen MusilAngelika MusilStefan Biffl,Towards a Coordination-Centric Architecture Metamodel for Social Web Applications,10.1007/978-3-319-09970-5_11,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_11,No,Yes,No
+160,ECSA,2014,Jaap KabbedijkMichiel PorsSlinger JansenSjaak Brinkkemper,Multi-tenant Architecture Comparison,10.1007/978-3-319-09970-5_18,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_18,No,Yes,No
+161,ECSA,2014,Grace A. LewisPatricia LagoGiuseppe Procaccianti,Architecture Strategies for Cyber-Foraging: Preliminary Results from a Systematic Literature Review,10.1007/978-3-319-09970-5_15,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_15,No,Yes,No
+162,ECSA,2014,Everton CavalcanteFlavio OquendoThais Batista,Architecture-Based Code Generation: From „-ADL Architecture Descriptions to Implementations in the Go Language,10.1007/978-3-319-09970-5_13,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_13,No,Yes,No
+163,ECSA,2014,Havva GÅlay GÅrbÅzBedir TekinerdoganNagehan Pala Er,Safety Perspective for Supporting Architectural Design of Safety-Critical Systems,10.1007/978-3-319-09970-5_31,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_31,No,Yes,No
+164,ECSA,2014,Sebastian HeroldMatthias Mair,Recommending Refactorings to Re-establish Architectural Consistency,10.1007/978-3-319-09970-5_33,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_33,No,Yes,No
+165,ECSA,2014,Andrea CaraccioloMircea Filip LunguOscar Nierstrasz,How Do Software Architects Specify and Validate Quality Requirements?,10.1007/978-3-319-09970-5_32,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_32,No,Yes,No
+166,ECSA,2014,Mohsen AnvaariOlaf Zimmermann,Semi-automated Design Guidance Enhancer (SADGE): A Framework for Architectural Guidance Development,10.1007/978-3-319-09970-5_4,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_4,No,Yes,No
+167,ECSA,2014,Marie Christin PlateniusSteffen BeckerWilhelm SchÑfer,Integrating Service Matchers into a Service Market Architecture,10.1007/978-3-319-09970-5_19,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_19,No,Yes,No
+168,ECSA,2014,Hadil AbukwaikDavide TaibiDieter Rombach,Interoperability-Related Architectural Problems and Solutions in Information Systems: A Scoping Study,10.1007/978-3-319-09970-5_27,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_27,No,Yes,No
+169,ECSA,2014,Abderrahmane SeriaiSalah SadouHouari A. Sahraoui,Enactment of Components Extracted from an Object-Oriented Application,10.1007/978-3-319-09970-5_22,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_22,No,Yes,No
+170,ECSA,2014,Lucas Bueno Ruas OliveiraElena LerouxKatia Romero FelizardoFlavio OquendoElisa Yumi Nakagawa,Towards a Process to Design Architectures of Service-Oriented Robotic Systems,10.1007/978-3-319-09970-5_20,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_20,No,Yes,No
+171,ECSA,2014,Sebastian GerdesSteffen LehnertMatthias Riebisch,Combining Architectural Design Decisions and Legacy System Evolution,10.1007/978-3-319-09970-5_5,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_5,No,Yes,No
+172,ECSA,2014,Huanhuan XiongFrank FowleyClaus PahlNiall Moran,Scalable Architectures for Platform-as-a-Service Clouds: Performance and Cost Analysis,10.1007/978-3-319-09970-5_21,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_21,No,Yes,No
+173,ECSA,2014,Vanea ChiprianovKatrina FalknerClaudia SzaboGavin Puddy,Architectural Support for Model-Driven Performance Prediction of Distributed Real-Time Embedded Systems of Systems,10.1007/978-3-319-09970-5_30,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_30,No,Yes,No
+174,ECSA,2014,Thorsten KochJîrg HoltmannJulien DeAntoni,Generating EAST-ADL Event Chains from Scenario-Based Requirements Specifications,10.1007/978-3-319-09970-5_14,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_14,No,Yes,No
+175,ECSA,2014,Bholanathsingh SurajbaliPaul GraceGeoff Coulson,A Consistency Framework for Dynamic Reconfiguration in AO-Middleware Architectures,10.1007/978-3-319-09970-5_34,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_34,No,Yes,No
+176,ECSA,2014,Alexander FrîmmgenMax LehnAlejandro Buchmann,A Property Description Framework for Composable Software,10.1007/978-3-319-09970-5_24,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_24,No,Yes,No
+177,ECSA,2014,Luca BerardinelliAntinisca Di MarcoStefano Pace,fUML-Driven Design and Performance Analysis of Software Agents for Wireless Sensor Network,10.1007/978-3-319-09970-5_28,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_28,No,Yes,No
+178,ECSA,2014,Fatih ôztÅrkErdem Sar?l?Hasan SîzerBar?? Aktemur,Effort Estimation for Architectural Refactoring to Introduce Module Isolation,10.1007/978-3-319-09970-5_26,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_26,No,Yes,No
+179,ECSA,2014,Tommaso Di NoiaMarina MongielloEugenio Di Sciascio,Ontology-Driven Pattern Selection and Matching in Software Design,10.1007/978-3-319-09970-5_8,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_8,No,Yes,No
+180,ECSA,2014,Tomas BuresIlias GerostathopoulosPetr HnetynkaJaroslav KezniklMichal KitFrantisek Plasil,Gossiping Components for Cyber-Physical Systems,10.1007/978-3-319-09970-5_23,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_23,No,Yes,No
+181,ECSA,2014,Yongrui XuPeng Liang,Co-evolving Pattern Synthesis and Class Responsibility Assignment in Architectural Synthesis,10.1007/978-3-319-09970-5_7,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_7,No,Yes,No
+182,ECSA,2014,Tobias FreudenreichStefan AppelSebastian FrischbierAlejandro P. Buchmann,Using Policies for Handling Complexity of Event-Driven Architectures,10.1007/978-3-319-09970-5_12,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_12,No,Yes,No
+183,ECSA,2014,Amel BennaceurValÇrie Issarny,Layered Connectors,10.1007/978-3-319-09970-5_25,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_25,No,Yes,No
+184,ECSA,2014,Jose-Miguel HorcasM¢nica PintoLidia Fuentes,Runtime Enforcement of Dynamic Security Policies,10.1007/978-3-319-09970-5_29,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_29,No,Yes,No
+185,ECSA,2014,Francis PalmaNaouel MohaGuy TremblayYann-Gaâl GuÇhÇneuc,Specification and Detection of SOA Antipatterns in Web Services,10.1007/978-3-319-09970-5_6,http://link.springer.com/chapter/10.1007/978-3-319-09970-5_6,No,Yes,No
+186,ECSA,2013,Marcin NowakCesare Pautasso,Team Situational Awareness and Architectural Decision Making with the Software Architecture Warehouse,10.1007/978-3-642-39031-9_13,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_13,No,Yes,No
+187,ECSA,2013,Georg BuchgeherRainer Weinreich,Towards Continuous Reference Architecture Conformance Analysis,10.1007/978-3-642-39031-9_32,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_32,No,Yes,No
+188,ECSA,2013,Martin KÅster,Architecture-Centric Modeling of Design Decisions for Validation and Traceability,10.1007/978-3-642-39031-9_16,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_16,No,Yes,No
+189,ECSA,2013,Danny WeynsTanvir Ahmad,Claims and Evidence for Architecture-Based Self-adaptation: A Systematic Literature Review,10.1007/978-3-642-39031-9_22,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_22,No,Yes,No
+190,ECSA,2013,Eduardo SilvaAna Luisa MedeirosEverton CavalcanteThais Batista,A Lightweight Language for Software Product Lines Architecture Description,10.1007/978-3-642-39031-9_10,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_10,No,Yes,No
+191,ECSA,2013,Zhao LiJiang Zheng,Toward Industry Friendly Software Architecture Evaluation,10.1007/978-3-642-39031-9_31,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_31,No,Yes,No
+192,ECSA,2013,Lakshitha de SilvaDharini Balasubramaniam,PANDArch: A Pluggable Automated Non-intrusive Dynamic Architecture Conformance Checker,10.1007/978-3-642-39031-9_21,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_21,No,Yes,No
+193,ECSA,2013,Dominik RostMatthias NaabCrescencio LimaChristina von Flach Garcia Chavez,Software Architecture Documentation for Developers: A Survey,10.1007/978-3-642-39031-9_7,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_7,No,Yes,No
+194,ECSA,2013,Jair LeiteFl†vio OquendoThais Batista,SysADL: A SysML Profile for Software Architecture Description,10.1007/978-3-642-39031-9_9,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_9,No,Yes,No
+195,ECSA,2013,Thomas HaitzerUwe Zdun,Controlled Experiment on the Supportive Effect of Architectural Component Diagrams for Design Understanding of Novice Architects,10.1007/978-3-642-39031-9_6,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_6,No,Yes,No
+196,ECSA,2013,Samuil AngelovJos TrienekensRob Kusters,Software Reference Architectures - Exploring Their Usage and Design in Practice,10.1007/978-3-642-39031-9_2,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_2,No,Yes,No
+197,ECSA,2013,Ioanna LytraHuy TranUwe Zdun,Supporting Consistency between Architectural Design Decisions and Component Models through Reusable Architectural Knowledge Transformations,10.1007/978-3-642-39031-9_20,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_20,No,Yes,No
+198,ECSA,2013,Matthias MairSebastian Herold,Towards Extensive Software Architecture Erosion Repairs,10.1007/978-3-642-39031-9_25,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_25,No,Yes,No
+199,ECSA,2013,Thomas PramsohlerSimon SchenkUwe Baumgarten,Towards an Optimized Software Architecture for Component Adaptation at Middleware Level,10.1007/978-3-642-39031-9_23,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_23,No,Yes,No
+200,ECSA,2013,Minh Tu Ton ThatSalah SadouFlavio OquendoIsabelle Borne,Composition-Centered Architectural Pattern Description Language,10.1007/978-3-642-39031-9_1,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_1,No,Yes,No
+201,ECSA,2013,Samir ChoualiOscar CarrilloHassan Mountassir,Specifying System Architecture from SysML Requirements and Component Interfaces,10.1007/978-3-642-39031-9_36,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_36,No,Yes,No
+202,ECSA,2013,Silverio Mart°nez-Fern†ndezClaudia P. AyalaXavier FranchHelena Martins Marques,Benefits and Drawbacks of Reference Architectures,10.1007/978-3-642-39031-9_26,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_26,No,Yes,No
+203,ECSA,2013,Carlos E. CuestaMiguel A. Mart°nez-PrietoJavier D. Fern†ndez,Towards an Architecture for Managing Big Semantic Data in Real-Time,10.1007/978-3-642-39031-9_5,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_5,No,Yes,No
+204,ECSA,2013,Dan TofanMatthias GalsterParis Avgeriou,Difficulty of Architectural Decisions ? A Survey with Professional Architects,10.1007/978-3-642-39031-9_17,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_17,No,Yes,No
+205,ECSA,2013,Claire DimechDharini Balasubramaniam,Maintaining Architectural Conformance during Software Development: A Practical Approach,10.1007/978-3-642-39031-9_19,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_19,No,Yes,No
+206,ECSA,2013,Mohsen AnvaariReidar ConradiLetizia Jaccheri,Architectural Decision-Making in Enterprises: Preliminary Findings from an Exploratory Study in Norwegian Electricity Industry,10.1007/978-3-642-39031-9_14,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_14,No,Yes,No
+207,ECSA,2013,Gustavo G. PascualM¢nica PintoLidia Fuentes,Run-Time Support to Manage Architectural Variability Specified with CVL,10.1007/978-3-642-39031-9_24,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_24,No,Yes,No
+208,ECSA,2013,Everton CavalcanteAna Luisa MedeirosThais Batista,Describing Cloud Applications Architectures,10.1007/978-3-642-39031-9_29,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_29,No,Yes,No
+209,ECSA,2013,Ulrik EklundCarl Magnus OlssonMarcus Ljungblad,Characterising Software Platforms from an Architectural Perspective,10.1007/978-3-642-39031-9_35,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_35,No,Yes,No
+210,ECSA,2013,Cornelia MiesbauerRainer Weinreich,Classification of Design Decisions ? An Expert Survey in Practice,10.1007/978-3-642-39031-9_12,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_12,No,Yes,No
+211,ECSA,2013,Henrik Bërbak ChristensenKlaus Marius Hansen,Architectural Slicing: Towards Automatic Harvesting of Architectural Prototypes,10.1007/978-3-642-39031-9_28,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_28,No,Yes,No
+212,ECSA,2013,Amal GassaraIsmael Bouassida RodriguezMohamed Jmaiel,Towards a Multi-scale Modeling for Architectural Deployment Based on Bigraphs,10.1007/978-3-642-39031-9_11,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_11,No,Yes,No
+213,ECSA,2013,David AmellerMatthias GalsterParis AvgeriouXavier Franch,The Role of Quality Attributes in Service-Based Systems Architecting: A Survey,10.1007/978-3-642-39031-9_18,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_18,No,Yes,No
+214,ECSA,2013,Marc HeseniusVolker Gruhn,"MVIC ? An MVC Extension for Interactive, Multimodal Applications",10.1007/978-3-642-39031-9_30,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_30,No,Yes,No
+215,ECSA,2013,Jan Salvador van der VenJan Bosch,Making the Right Decision: Supporting Architects with Design Decision Data,10.1007/978-3-642-39031-9_15,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_15,Yes,Yes,Yes
+216,ECSA,2013,Imen TounsiMohamed Hadj KacemAhmed Hadj Kacem,Building Correct by Construction SOA Design Patterns: Modeling and Refinement,10.1007/978-3-642-39031-9_4,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_4,No,Yes,No
+217,ECSA,2013,Mohamed ZouariIsmael Bouassida Rodriguez,Towards Automated Deployment of Distributed Adaptation Systems,10.1007/978-3-642-39031-9_33,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_33,No,Yes,No
+218,ECSA,2013,Taha Abdelmoutaleb CherfiaFaãza Belala,Towards a Bigraph-Based Model for Context-Aware Adaptive Systems,10.1007/978-3-642-39031-9_34,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_34,No,Yes,No
+219,ECSA,2013,Benjamin MorandiScott WestSebastian NanzHassan Gomaa,Concurrent Object-Oriented Development with BehavioralˇDesignˇPatterns,10.1007/978-3-642-39031-9_3,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_3,No,Yes,No
+220,ECSA,2013,Franáois GoichonGuillaume SalagnacStÇphane FrÇnot,Swap Fairness for Thrashing Mitigation,10.1007/978-3-642-39031-9_27,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_27,No,Yes,No
+221,ECSA,2013,Arda GoknilJagadish SuryadevaraMarie-Agnäs Peraldi-FratiFrÇdÇric Mallet,Analysis Support for TADL2 Timing Constraints on EAST-ADL Models,10.1007/978-3-642-39031-9_8,http://link.springer.com/chapter/10.1007/978-3-642-39031-9_8,No,Yes,No
+222,ECSA,2011,Andrzej ZalewskiSzymon KijasDorota Soko?owska,Capturing Architecture Evolution with Maps of Architectural Decisions 2.0,10.1007/978-3-642-23798-0_9,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_9,No,Yes,No
+223,ECSA,2011,Jessica D°azJennifer PÇrezJuan GarbajosaAlexander L. Wolf,Change Impact Analysis in Product-Line Architectures,10.1007/978-3-642-23798-0_12,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_12,No,Yes,No
+224,ECSA,2011,Lakshitha de SilvaDharini Balasubramaniam,A Model for Specifying Rationale Using an Architecture Description Language,10.1007/978-3-642-23798-0_34,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_34,No,Yes,No
+225,ECSA,2011,Novia AdmodisastroGerald Kotonya,An Architecture Analysis Approach for Supporting Black-Box Software Development,10.1007/978-3-642-23798-0_17,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_17,No,Yes,No
+226,ECSA,2011,Lucas Bueno Ruas OliveiraElisa Yumi Nakagawa,A Service-Oriented Reference Architecture for Software Testing Tools,10.1007/978-3-642-23798-0_42,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_42,No,Yes,No
+227,ECSA,2011,Elisa Yumi NakagawaPablo Oliveira AntoninoMartin Becker,Reference Architecture and Product Line Architecture: A Subtle But Critical Difference,10.1007/978-3-642-23798-0_22,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_22,No,Yes,No
+228,ECSA,2011,Rafael CapillaOlaf ZimmermannUwe ZdunParis AvgeriouJochen M. KÅster,An Enhanced Architectural Knowledge Metamodel Linking Architectural Design Decisions to other Artifacts in the Software Engineering Lifecycle,10.1007/978-3-642-23798-0_33,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_33,No,Yes,No
+229,ECSA,2011,Tahir Naseer QureshiDeJiu ChenHenrik LînnMartin Tîrngren,From EAST-ADL to AUTOSAR Software Architecture: A Mapping Scheme,10.1007/978-3-642-23798-0_35,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_35,No,Yes,No
+230,ECSA,2011,Javier CuboErnesto Pimentel,DAMASCo: A Framework for the Automatic Composition of Component-Based and Service-Oriented Architectures,10.1007/978-3-642-23798-0_41,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_41,No,Yes,No
+231,ECSA,2011,Marco MÅllerBenjamin KerstenMichael Goedicke,A Question-Based Method for Deriving Software Architectures,10.1007/978-3-642-23798-0_4,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_4,No,Yes,No
+232,ECSA,2011,Constanze DeitersAndreas Rausch,A Constructive Approach to Compositional Architecture Design,10.1007/978-3-642-23798-0_8,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_8,No,Yes,No
+233,ECSA,2011,Klaas-Jan StolParis AvgeriouMuhammad Ali Babar,Design and Evaluation of a Process for Identifying Architecture Patterns in Open Source Software,10.1007/978-3-642-23798-0_15,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_15,No,Yes,No
+234,ECSA,2011,Eiji Adachi BarbosaThais BatistaAlessandro GarciaEduardo Silva,PL-AspectualACME: An Aspect-Oriented Architectural Description Language for Software Product Lines,10.1007/978-3-642-23798-0_14,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_14,No,Yes,No
+235,ECSA,2011,Azadeh AlebrahimDenis HateburMaritta Heisel,Towards Systematic Integration of Quality Requirements into Software Architecture,10.1007/978-3-642-23798-0_2,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_2,No,Yes,No
+236,ECSA,2011,Tobias BrÅckmannVolker GruhnMax Pfeiffer,Towards Real-Time Monitoring and Controlling of Enterprise Architectures Using Business Software Control Centers,10.1007/978-3-642-23798-0_31,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_31,No,Yes,No
+237,ECSA,2011,Matthias Naab,Enhancing Architecture Design Methods for Improved Flexibility in Long-Living Information Systems,10.1007/978-3-642-23798-0_19,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_19,No,Yes,No
+238,ECSA,2011,Bojan OrlicIonut DavidRudolf H. MakJohan J. Lukkien,Dynamically Reconfigurable Resource-Aware Component Framework: Architecture and Concepts,10.1007/978-3-642-23798-0_23,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_23,No,Yes,No
+239,ECSA,2011,Antonio C. Contieri JrGuilherme G. CorreiaThelma E. ColanziItana M. S. GimenesEdson A. Oliveira JrSandra FerrariPaulo C. MasieroAlessandro F. Garcia,Extending UML Components to Develop Software Product-Line Architectures: Lessons Learned,10.1007/978-3-642-23798-0_13,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_13,No,Yes,No
+240,ECSA,2011,Andreas JohnsenPaul PetterssonKristina Lundqvist,An Architecture-Based Verification Technique for AADL Specifications,10.1007/978-3-642-23798-0_11,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_11,No,Yes,No
+241,ECSA,2011,Nadia GamezLidia FuentesMiguel A. AragÅez,Autonomic Computing Driven by Feature Models and Architecture in FamiWare,10.1007/978-3-642-23798-0_16,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_16,No,Yes,No
+242,ECSA,2011,Mathieu AcherAnthony ClevePhilippe ColletPhilippe MerleLaurence DuchienPhilippe Lahire,Reverse Engineering Architectural Feature Models,10.1007/978-3-642-23798-0_25,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_25,No,Yes,No
+243,ECSA,2011,Josef AdersbergerMichael Philippsen,ReflexML: UML-Based Architecture-to-Code Traceability and Consistency Checking,10.1007/978-3-642-23798-0_37,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_37,No,Yes,No
+244,ECSA,2011,Robert D?browskiKrzysztof StencelGrzegorz Timoszuk,Software Is a Directed Multigraph,10.1007/978-3-642-23798-0_38,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_38,No,Yes,No
+245,ECSA,2011,Chouki TibermacineTarek Zernadji,Supervising the Evolution of Web Service Orchestrations Using Quality Requirements,10.1007/978-3-642-23798-0_1,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_1,No,Yes,No
+246,ECSA,2011,Elif DemirliBedir Tekinerdogan,Software Language Engineering of Architectural Viewpoints,10.1007/978-3-642-23798-0_36,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_36,No,Yes,No
+247,ECSA,2011,Robert von MassowAndrÇ van HoornWilhelm Hasselbring,Performance Simulation of Runtime Reconfigurable Component-Based Software Architectures,10.1007/978-3-642-23798-0_5,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_5,No,Yes,No
+248,ECSA,2011,Paulo CasanovaBradley SchmerlDavid GarlanRui Abreu,Architecture-Based Run-Time Fault Diagnosis,10.1007/978-3-642-23798-0_29,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_29,No,Yes,No
+249,ECSA,2011,Elena NavarroCarlos E. CuestaDewayne E. PerryCristina Roda,Using Model Transformation Techniques for the Superimposition of Architectural Styles,10.1007/978-3-642-23798-0_40,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_40,No,Yes,No
+250,ECSA,2011,Damian Andrew TamburriPatricia Lago,Supporting Communication and Cooperation in Global Software Development with Agile Service Networks,10.1007/978-3-642-23798-0_26,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_26,No,Yes,No
+251,ECSA,2011,Jakob Axelsson,On How to Deal with Uncertainty When Architecting Embedded Software and Systems,10.1007/978-3-642-23798-0_20,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_20,No,Yes,No
+252,ECSA,2011,Shouki A. EbadMoataz Ahmed,Software Packaging Approaches ?A Comparison Framework,10.1007/978-3-642-23798-0_44,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_44,No,Yes,No
+253,ECSA,2011,Leonardo P. TizzeiCec°lia M. F. Rubira,Aspect-Connectors to Support the Evolution of Component-Based Product Line Architectures: A Comparative Study,10.1007/978-3-642-23798-0_6,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_6,No,Yes,No
+254,ECSA,2011,Bedir TekinerdoganHasan Sîzer,Defining Architectural Viewpoints for Quality Concerns,10.1007/978-3-642-23798-0_3,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_3,No,Yes,No
+255,ECSA,2011,Guglielmo LulliRaffaela MirandolaPasqualina PotenaClaudia Raibulet,Resource Management in the Air Traffic Domain,10.1007/978-3-642-23798-0_10,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_10,No,Yes,No
+256,ECSA,2011,Jens EhlersWilhelm Hasselbring,A Self-adaptive Monitoring Framework for Component-Based Software Systems,10.1007/978-3-642-23798-0_30,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_30,No,Yes,No
+257,ECSA,2011,Martin RytterBo N?rregaard J?rgensen,Decouplink: Dynamic Links for Java,10.1007/978-3-642-23798-0_43,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_43,No,Yes,No
+258,ECSA,2011,Fatma KrichenBrahim HamidBechir ZalilaMohamed Jmaiel,Towards a Model-Based Approach for Reconfigurable DRE Systems,10.1007/978-3-642-23798-0_32,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_32,No,Yes,No
+259,ECSA,2011,Daniel Schulte,Web-Scale Human Task Management,10.1007/978-3-642-23798-0_18,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_18,No,Yes,No
+260,ECSA,2011,Dan TofanMatthias GalsterParis Avgeriou,Reducing Architectural Knowledge Vaporization by Applying the Repertory Grid Technique,10.1007/978-3-642-23798-0_27,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_27,No,Yes,No
+261,ECSA,2011,Selim CiraciHasan SîzerMehmet Aksit,Guiding Architects in Selecting Architectural Evolution Alternatives,10.1007/978-3-642-23798-0_28,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_28,No,Yes,No
+262,ECSA,2011,Oscar M. PereiraRui L. AguiarMaribel Yasmina Santos,A Reusable Business Tier Component with a Single Wide Range Static Interface,10.1007/978-3-642-23798-0_24,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_24,No,Yes,No
+263,ECSA,2011,Vishal DwivediPerla Velasco-ElizondoJose Maria FernandesDavid GarlanBradley Schmerl,An Architectural Approach to End User Orchestrations,10.1007/978-3-642-23798-0_39,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_39,No,Yes,No
+264,ECSA,2011,Anu PurhonenSakari Stenudd,Runtime Performance Management of Information Broker-Based Adaptive Applications,10.1007/978-3-642-23798-0_21,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_21,No,Yes,No
+265,ECSA,2011,Lazhar HamelMohamed GraietMourad KmimechMohamed Tahar BhiriWalid Gaaloul,Verifying Composite Service Transactional Behavior with EVENT-B,10.1007/978-3-642-23798-0_7,http://link.springer.com/chapter/10.1007/978-3-642-23798-0_7,No,Yes,No
+266,ECSA,2010,Widura SchwittekStefan Eicker,Communicating Architectural Knowledge: Requirements for Software Architecture Knowledge Management Tools,10.1007/978-3-642-15114-9_41,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_41,No,Yes,No
+267,ECSA,2010,Jennifer PÇrezJessica D°azJuan GarbajosaPedro P. Alarc¢n,Flexible Working Architectures: Agile Architecting Using PPCs,10.1007/978-3-642-15114-9_10,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_10,No,Yes,No
+268,ECSA,2010,Sjaak BrinkkemperStella Pachidi,Functional Architecture Modeling for the Software Product Industry,10.1007/978-3-642-15114-9_16,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_16,No,Yes,No
+269,ECSA,2010,Roberto E. Lopez-HerrejonAlexander Egyed,On the Need of Safe Software Product Line Architectures,10.1007/978-3-642-15114-9_48,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_48,No,Yes,No
+270,ECSA,2010,Sylvain ChardignyAbdelhak Seriai,Software Architecture Recovery Process Based on Object-Oriented Source Code and Documentation,10.1007/978-3-642-15114-9_35,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_35,Yes,Yes,Yes
+271,ECSA,2010,Jan Bosch,Architecture in the Age of Compositionality,10.1007/978-3-642-15114-9_1,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_1,No,Yes,No
+272,ECSA,2010,Chouki TibermacineChristophe DonySalah SadouLuc Fabresse,"Software Architecture Constraints as Customizable, Reusable and Composable Entities",10.1007/978-3-642-15114-9_51,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_51,No,Yes,No
+273,ECSA,2010,Andrzej ZalewskiSzymon Kijas,Architecture Decision-Making in Support of Complexity Control,10.1007/978-3-642-15114-9_50,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_50,No,Yes,No
+274,ECSA,2010,Uwe van HeeschParis Avgeriou,Naive Architecting - Understanding the Reasoning Process of Students,10.1007/978-3-642-15114-9_5,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_5,No,Yes,No
+275,ECSA,2010,Chung-Horng LungBalasangar BalasubramaniamKamalachelva SelvarajahPoopalasinkam ElankeswaranUmatharan Gopalasundaram,Towards Architecture-Centric Software Generation,10.1007/978-3-642-15114-9_6,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_6,No,Yes,No
+276,ECSA,2010,Rainer WeinreichGeorg Buchgeher,Integrating Requirements and Design Decisions in Architecture Representation,10.1007/978-3-642-15114-9_9,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_9,No,Yes,No
+277,ECSA,2010,Huaxi (Yulin) ZhangChristelle UrtadoSylvain Vauttier,Architecture-Centric Component-Based Development Needs a Three-Level ADL,10.1007/978-3-642-15114-9_22,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_22,No,Yes,No
+278,ECSA,2010,Veli-Pekka ElorantaKai Koskimies,Using Domain Knowledge to Boost Software Architecture Evaluation,10.1007/978-3-642-15114-9_24,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_24,No,Yes,No
+279,ECSA,2010,Ulrik EklundThomas Arts,A Classification of Value for Software Architecture Decisions,10.1007/978-3-642-15114-9_30,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_30,No,Yes,No
+280,ECSA,2010,Carlos ParraAnthony CleveXavier BlancLaurence Duchien,Feature-Based Composition of Software Architectures,10.1007/978-3-642-15114-9_18,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_18,No,Yes,No
+281,ECSA,2010,Stephan BodeMatthias Riebisch,Impact Evaluation for Quality-Oriented Architectural Decisions regarding Evolvability,10.1007/978-3-642-15114-9_15,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_15,No,Yes,No
+282,ECSA,2010,Claus Pahl,Dynamic Adaptive Service Architecture ? Towards Coordinated Service Composition,10.1007/978-3-642-15114-9_43,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_43,No,Yes,No
+283,ECSA,2010,Rami Bahsoon,A Framework for Dynamic Self-optimization of Power and Dependability Requirements in Green Cloud Architectures,10.1007/978-3-642-15114-9_52,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_52,No,Yes,No
+284,ECSA,2010,Lucas Bueno Ruas de OliveiraKatia Romero FelizardoDaniel FeitosaElisa Yumi Nakagawa,Reference Models and Reference Architectures Based on Service-Oriented Architecture: A Systematic Review,10.1007/978-3-642-15114-9_29,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_29,No,Yes,No
+285,ECSA,2010,Riccardo ScandariatoKoen BuyensWouter Joosen,Automated Detection of Least Privilege Violations in Software Architectures,10.1007/978-3-642-15114-9_13,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_13,No,Yes,No
+286,ECSA,2010,Ville ReijonenJohannes KoskinenIlkka Haikala,Experiences from Scenario-Based Architecture Evaluations with ATAM,10.1007/978-3-642-15114-9_17,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_17,No,Yes,No
+287,ECSA,2010,Henrik Bërbak ChristensenKlaus Marius HansenBo Lindstr?m,Lightweight and Continuous Architectural Software Quality Assurance Using the aSQA Technique,10.1007/978-3-642-15114-9_11,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_11,No,Yes,No
+288,ECSA,2010,Davide Di RuscioIvano MalavoltaHenry MucciniPatrizio PelliccioneAlfonso Pierantonio,ByADL: An MDE Framework for Building Extensible Architecture Description Languages,10.1007/978-3-642-15114-9_56,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_56,No,Yes,No
+289,ECSA,2010,Juliana SaraivaSÇrgio SoaresFernando Castor,Assessing the Impact of AOSD on Layered Software Architectures,10.1007/978-3-642-15114-9_27,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_27,No,Yes,No
+290,ECSA,2010,JosÇ Luiz FiadeiroAnt¢nia Lopes,A Model for Dynamic Reconfiguration in Service-Oriented Architectures,10.1007/978-3-642-15114-9_8,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_8,No,Yes,No
+291,ECSA,2010,Patrick KînemannOlaf Zimmermann,Linking Design Decisions to Design Models in Model-Based Software Development,10.1007/978-3-642-15114-9_19,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_19,No,Yes,No
+292,ECSA,2010,Guoxin SuMingsheng YingChengqi Zhang,An ADL-Approach to Specifying and Analyzing Centralized-Mode Architectural Connection,10.1007/978-3-642-15114-9_4,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_4,No,Yes,No
+293,ECSA,2010,HervÇ VerjusSorana CåmpanAzadeh RazavizadehStÇphane Ducasse,BeeEye: A Framework for Constructing Architectural Views,10.1007/978-3-642-15114-9_31,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_31,No,Yes,No
+294,ECSA,2010,An Phung-KhacJean-Marie GilliotMaria-Teresa SegarraAntoine BeugnardEveline KaborÇ,Modelling Changes and Data Transfers for Architecture-Based Runtime Evolution of Distributed Applications,10.1007/978-3-642-15114-9_33,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_33,No,Yes,No
+295,ECSA,2010,Juha SavolainenJuha KuuselaTomi MÑnnistîAki Nyyssînen,Experiences in Making Architectural Decisions during the Development of a New Base Station Platform,10.1007/978-3-642-15114-9_37,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_37,No,Yes,No
+296,ECSA,2010,Adel AltiAbdellah BoukerramPhilippe Roose,Context-Aware Quality Model Driven Approach: A New Approach for Quality Control in Pervasive Computing Environments,10.1007/978-3-642-15114-9_39,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_39,No,Yes,No
+297,ECSA,2010,Javier BerrocalJosÇ Garc°a-AlonsoJuan Manuel Murillo,Facilitating the Selection of Architectural Patterns by Means of a Marked Requirements Model,10.1007/978-3-642-15114-9_32,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_32,No,Yes,No
+298,ECSA,2010,Philippe Kruchten,Where Did All This Good Architectural Knowledge Go?,10.1007/978-3-642-15114-9_2,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_2,No,Yes,No
+299,ECSA,2010,Ana Ivanovi?Pierre America,Customer Value in Architecture Decision Making,10.1007/978-3-642-15114-9_20,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_20,No,Yes,No
+300,ECSA,2010,Diego BerniniFrancesco Tisato,Explaining Architectural Choices to Non-architects,10.1007/978-3-642-15114-9_28,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_28,No,Yes,No
+301,ECSA,2010,Diego SaraivaLucas PereiraThais BatistaFl†via C. DelicatoPaulo F. PiresUir† KuleszaRodrigo Ara£joT†ssia FreitasSindolfo MirandaAna Liz SoutoRoberta Coelho,Architecting a Model-Driven Aspect-Oriented Product Line for a Digital TV Middleware: A Refactoring Experience,10.1007/978-3-642-15114-9_14,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_14,No,Yes,No
+302,ECSA,2010,Ahmad Waqas KamalParis Avgeriou,Mining Relationships between the Participants of Architectural Patterns,10.1007/978-3-642-15114-9_34,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_34,Yes,Yes,Yes
+303,ECSA,2010,Mads Schaarup AndersenHenrik Bërbak Christensen,Identity Management Mismatch Challenges in the Danish Municipality Administration System,10.1007/978-3-642-15114-9_44,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_44,No,Yes,No
+304,ECSA,2010,Ankit AhujaJacques SimoninRÇmi Nedelec,MDA Tool for Telecom Service Functional Design,10.1007/978-3-642-15114-9_54,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_54,No,Yes,No
+305,ECSA,2010,Suronapee PhoomvuthisarnYan LiuLiming Zhu,An Architectural Approach to Composing Reputation-Based Distributed Services,10.1007/978-3-642-15114-9_12,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_12,No,Yes,No
+306,ECSA,2010,Arvind W. KiwelekarRushikesh K. Joshi,Ontological Analysis for Generating Baseline Architectural Descriptions,10.1007/978-3-642-15114-9_36,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_36,No,Yes,No
+307,ECSA,2010,Jose JohnMingXue WangClaus Pahl,Dynamic Architectural Constraints Monitoring and Reconfiguration in Service Architectures,10.1007/978-3-642-15114-9_23,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_23,No,Yes,No
+308,ECSA,2010,Jim Webber,REST in Practice,10.1007/978-3-642-15114-9_3,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_3,No,Yes,No
+309,ECSA,2010,Romina SpalazzesePaola Inverardi,Mediating Connector Patterns for Components Interoperability,10.1007/978-3-642-15114-9_26,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_26,No,Yes,No
+310,ECSA,2010,Naeem EsfahaniSam Malek,On the Role of Architectural Styles in Improving the Adaptation Support of Middleware Platforms,10.1007/978-3-642-15114-9_38,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_38,No,Yes,No
+311,ECSA,2010,Tobias BrÅckmannVolker Gruhn,An Architectural Blueprint for Model Driven Development and Maintenance of Business Logic for Information Systems,10.1007/978-3-642-15114-9_7,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_7,No,Yes,No
+312,ECSA,2010,Sihem LoukilSlim KallelBechir ZalilaMohamed Jmaiel,Toward an Aspect Oriented ADL for Embedded Systems,10.1007/978-3-642-15114-9_47,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_47,No,Yes,No
+313,ECSA,2010,Martin RytterBo N?rregaard J?rgensen,Independently Extensibile Contexts,10.1007/978-3-642-15114-9_25,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_25,No,Yes,No
+314,ECSA,2010,R. Bashroush,A NUI Based Multiple Perspective Variability Modeling CASE Tool,10.1007/978-3-642-15114-9_55,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_55,No,Yes,No
+315,ECSA,2010,Asta KrupaviciuteJocelyne Fayn,Expert Activities Automation through Enhanced Business Services Orchestration,10.1007/978-3-642-15114-9_49,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_49,No,Yes,No
+316,ECSA,2010,Anthony Hock-koonMourad Oussalah,Many to Many Service Discovery: A First Approach,10.1007/978-3-642-15114-9_40,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_40,No,Yes,No
+317,ECSA,2010,Anthony Hock-koonMourad Oussalah,Specifying Loose Coupling from Existing Service Composition Approaches,10.1007/978-3-642-15114-9_42,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_42,No,Yes,No
+318,ECSA,2010,Najla Hadj KacemAhmed Hadj KacemKhalil Drira,A Formal Approach to Enforcing Consistency in Self-adaptive Systems,10.1007/978-3-642-15114-9_21,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_21,No,Yes,No
+319,ECSA,2010,Antinisca Di MarcoFrancesco GalloPaola InverardiRodolfo Ippoliti,Learning from the Cell Life-Cycle: A Self-adaptive Paradigm,10.1007/978-3-642-15114-9_46,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_46,No,Yes,No
+320,ECSA,2010,Chouki TibermacineMohamed Lamine Kerdoudi,From Web Components to Web Services: Opening Development for Third Parties,10.1007/978-3-642-15114-9_45,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_45,No,Yes,No
+321,ECSA,2010,Arvind W. KiwelekarRushikesh K. Joshi,Identifying Architectural Connectors through Formal Concept Analysis of Communication Primitives,10.1007/978-3-642-15114-9_53,http://link.springer.com/chapter/10.1007/978-3-642-15114-9_53,No,Yes,No
+322,ECSA,2008,Banani RoyT. C. Nicholas Graham,An Iterative Framework for Software Architecture Recovery: An Experience Report,10.1007/978-3-540-88030-1_16,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_16,Yes,Yes,Yes
+323,ECSA,2008,Ricardo TerraMarco Tulio de Oliveira Valente,Towards a Dependency Constraint Language to Manage Software Architectures,10.1007/978-3-540-88030-1_19,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_19,No,Yes,No
+324,ECSA,2008,Antony TangFei-Ching KuoMan F. Lau,Towards Independent Software Architecture Review,10.1007/978-3-540-88030-1_25,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_25,No,Yes,No
+325,ECSA,2008,Majid MakkiEbrahim BagheriAli A. Ghorbani,Automating Architecture Trade-Off Decision Making through a Complex Multi-attribute Decision Process,10.1007/978-3-540-88030-1_20,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_20,No,Yes,No
+326,ECSA,2008,Colin Atkinson,Component-Oriented Verification of Software Architectures through Built-in Tests,10.1007/978-3-540-88030-1_2,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_2,No,Yes,No
+327,ECSA,2008,Dewayne E. Perry,Issues in Architecture Evolution: Using Design Intent in Maintenance and Controlling Dynamic Evolution,10.1007/978-3-540-88030-1_1,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_1,No,Yes,No
+328,ECSA,2008,Fabian GilsonVincent EnglebertRaimundas Matulevi?ius,A Large Scope Transformational Approach for Distributed Architecture Design,10.1007/978-3-540-88030-1_30,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_30,No,Yes,No
+329,ECSA,2008,Elena NavarroCarlos E. Cuesta,Automating the Trace of Architectural Design Decisions and Rationales Using a MDD Approach,10.1007/978-3-540-88030-1_10,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_10,No,Yes,No
+330,ECSA,2008,Chimäne FankamStÇphane JeanLadjel BellatrecheYamine Aãt-Ameur,Extending the ANSI/SPARC Architecture Database with Explicit Data Semantics: An Ontology-Based Approach,10.1007/978-3-540-88030-1_27,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_27,No,Yes,No
+331,ECSA,2008,Samuil AngelovJos J. M. TrienekensPaul Grefen,Towards a Method for the Evaluation of Reference Architectures: Experiences from a Case,10.1007/978-3-540-88030-1_17,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_17,No,Yes,No
+332,ECSA,2008,Crist¢bal Costa-SoriaJennifer PÇrezJosÇ Angel Cars°,Managing Dynamic Evolution of Architectural Types,10.1007/978-3-540-88030-1_22,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_22,No,Yes,No
+333,ECSA,2008,Gerald Kotonya,An Architecture-Centric Development Environment for Black-Box Component-Based Systems,10.1007/978-3-540-88030-1_9,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_9,No,Yes,No
+334,ECSA,2008,Rafael CapillaMuhammad Ali Babar,On the Role of Architectural Design Decisions in Software Product Line Engineering,10.1007/978-3-540-88030-1_18,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_18,No,Yes,No
+335,ECSA,2008,Sylvain ChardignyAbdelhak SeriaiMourad OussalahDalila Tamzalit,Search-Based Extraction of Component-Based Architecture from Object-Oriented Systems,10.1007/978-3-540-88030-1_28,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_28,No,Yes,No
+336,ECSA,2008,Bas van der RaadtSander SchoutenHans van Vliet,Stakeholder Perception of Enterprise Architecture,10.1007/978-3-540-88030-1_4,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_4,No,Yes,No
+337,ECSA,2008,Martin AssmannGregor Engels,Transition to Service-Oriented Enterprise Architecture,10.1007/978-3-540-88030-1_34,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_34,No,Yes,No
+338,ECSA,2008,Larix LeePhilippe Kruchten,Visualizing Software Architectural Design Decisions,10.1007/978-3-540-88030-1_37,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_37,No,Yes,No
+339,ECSA,2008,Gonzalo MÇndezAngÇlica de Antonio,How Do Agents Affect Modifiability? A Comparison between Two Architectures for Intelligent Virtual Environments for Training,10.1007/978-3-540-88030-1_8,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_8,No,Yes,No
+340,ECSA,2008,Mubarak MohammadVasu Alagar,TADL - An Architecture Description Language for Trustworthy Component-Based Systems,10.1007/978-3-540-88030-1_23,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_23,No,Yes,No
+341,ECSA,2008,Henrik Bërbak ChristensenKlaus Marius Hansen,Architectural Prototyping in Industrial Practice,10.1007/978-3-540-88030-1_15,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_15,No,Yes,No
+342,ECSA,2008,Ednaldo Dilorenzo de Souza FilhoRicardo de Oliveira CavalcantiDanuza F. S. NeivaThiago H. B. OliveiraLiana Barachisio LisboaEduardo Santana de AlmeidaSilvio Romero de Lemos Meira,Evaluating Domain Design Approaches Using Systematic Review,10.1007/978-3-540-88030-1_6,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_6,No,Yes,No
+343,ECSA,2008,Varvana MyllÑrniemiChristian PrehoferMikko RaatikainenJilles van GurpTomi MÑnnistî,Approach for Dynamically Composing Decentralised Service Architectures with Cross-Cutting Constraints,10.1007/978-3-540-88030-1_14,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_14,No,Yes,No
+344,ECSA,2008,M¢nica PintoLidia Fuentes,Towards a Software Process for Aspect-Oriented Modeling of Quality Attributes,10.1007/978-3-540-88030-1_31,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_31,No,Yes,No
+345,ECSA,2008,Patrick H. S. BritoRogÇrio de LemosCec°lia M. F. Rubira,Development of Fault-Tolerant Software Systems Based on Architectural Abstractions,10.1007/978-3-540-88030-1_11,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_11,No,Yes,No
+346,ECSA,2008,Nelis BouckÇDanny WeynsRich HilliardTom HolvoetAlexander Helleboogh,Characterizing Relations between Architectural Views,10.1007/978-3-540-88030-1_7,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_7,No,Yes,No
+347,ECSA,2008,Thais BatistaAntìnio T. A. GomesGeoff CoulsonChristina ChavezAlessandro Garcia,On the Interplay of Aspects and Dynamic Reconfiguration in a Specification-to-Deployment Environment,10.1007/978-3-540-88030-1_26,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_26,No,Yes,No
+348,ECSA,2008,Ahmad Waqas KamalParis Avgeriou,Modeling Architectural Patterns? Behavior Using Architectural Primitives,10.1007/978-3-540-88030-1_13,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_13,No,Yes,No
+349,ECSA,2008,Andrzej ZalewskiMarcin Ludzia,Diagrammatic Modeling of Architectural Decisions,10.1007/978-3-540-88030-1_35,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_35,No,Yes,No
+350,ECSA,2008,Claudia Raibulet,Facets of Adaptivity,10.1007/978-3-540-88030-1_33,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_33,No,Yes,No
+351,ECSA,2008,Marcos L¢pez-SanzZawar QayyumCarlos E. CuestaEsperanza MarcosFlavio Oquendo,Representing Service-Oriented Architectural Models Using „-ADL,10.1007/978-3-540-88030-1_21,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_21,No,Yes,No
+352,ECSA,2008,SÇbastien MosserMireille Blay-FornarinoMichel Riveill,Web Services Orchestrations Evolution: A Merge Process for Behavioral Evolution,10.1007/978-3-540-88030-1_5,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_5,No,Yes,No
+353,ECSA,2008,I. ChatzigiannakisV. LiagkouD. SalourosP. Spirakis,A Security Model for Internet-Based Digital Asset Management Systems,10.1007/978-3-540-88030-1_29,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_29,No,Yes,No
+354,ECSA,2008,Christian HÑnselHans JÅrgen OhlbachEdgar Stoffel,L-DSMS ? A Local Data Stream Management System,10.1007/978-3-540-88030-1_24,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_24,No,Yes,No
+355,ECSA,2008,F. LosavioA. MatteoR. Rahamut,Web Services Domain Analysis Based on Quality Standards,10.1007/978-3-540-88030-1_36,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_36,No,Yes,No
+356,ECSA,2008,Robertas Dama?evi?iusVytautas ?tuikysJevgenijus Toldinas,Domain Ontology-Based Generative Component Design Using Feature Diagrams and Meta-programming Techniques,10.1007/978-3-540-88030-1_32,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_32,No,Yes,No
+357,ECSA,2008,Ileana OberAli Abou DibLouis FÇraudChristian Percebois,Towards Interoperability in Component Based Development with a Family of DSLs,10.1007/978-3-540-88030-1_12,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_12,No,Yes,No
+358,ECSA,2008,Marco BernardoEdoardo BontÖ,Non-synchronous Communications in Process Algebraic Architectural Description Languages,10.1007/978-3-540-88030-1_3,http://link.springer.com/chapter/10.1007/978-3-540-88030-1_3,No,Yes,No
+359,ECSA,2007,Davide FalessiPhilippe KruchtenGiovanni Cantone,Issues in Applying Empirical Software Engineering to Software Architecture,10.1007/978-3-540-75132-8_20,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_20,No,Yes,No
+360,ECSA,2007,Ron MorrisonDharini BalasubramaniamFlavio OquendoBrian WarboysR. Mark Greenwood,An Active Architecture Approach to Dynamic Systems Co-evolution,10.1007/978-3-540-75132-8_2,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_2,No,Yes,No
+361,ECSA,2007,Rogelio Limon CorderoIsidro Ramos Salavert,Analyzing Styles of the Modular Software Architecture View,10.1007/978-3-540-75132-8_23,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_23,No,Yes,No
+362,ECSA,2007,Andrzej Zalewski,Beyond ATAM: Architecture Analysis in the Development of Large Scale Software Systems,10.1007/978-3-540-75132-8_8,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_8,No,Yes,No
+363,ECSA,2007,Guillaume WaignierAnne-Franáoise Le MeurLaurence Duchien,FIESTA: A Generic Framework for Integrating New Functionalities into Software Architectures,10.1007/978-3-540-75132-8_7,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_7,No,Yes,No
+364,ECSA,2007,Cl†udio Sant?AnnaEduardo FigueiredoAlessandro GarciaCarlos J. P. Lucena,On the Modularity of Software Architectures: A Concern-Driven Measurement Framework,10.1007/978-3-540-75132-8_17,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_17,No,Yes,No
+365,ECSA,2007,David Garlan,Software Architectures for Task-Oriented Computing,10.1007/978-3-540-75132-8_1,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_1,No,Yes,No
+366,ECSA,2007,Alan W. BrownJohn A. McDermid,The Art and Science of Software Architecture,10.1007/978-3-540-75132-8_19,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_19,No,Yes,No
+367,ECSA,2007,Crist¢bal CostaNour AliJennifer PÇrezJosÇ ?ngel Cars°Isidro Ramos,Dynamic Reconfiguration of Software Architectures Through Aspects,10.1007/978-3-540-75132-8_24,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_24,No,Yes,No
+368,ECSA,2007,Rui CorreiaCarlos M. P. MatosReiko HeckelMohammad El-Ramly,Architecture Migration Driven by Code Categorization,10.1007/978-3-540-75132-8_10,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_10,No,Yes,No
+369,ECSA,2007,Alessandro Costa PereiraFalk HartmannKay Kadner,A Distributed Staged Architecture for Multimodal Applications,10.1007/978-3-540-75132-8_16,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_16,No,Yes,No
+370,ECSA,2007,Lidia FuentesNadia G†mezM¢nica PintoJuan A. Valenzuela,Using Connectors to Model Crosscutting Influences in Software Architectures,10.1007/978-3-540-75132-8_27,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_27,No,Yes,No
+371,ECSA,2007,Neil B. HarrisonParis Avgeriou,Leveraging Architecture Patterns to Satisfy Quality Attributes,10.1007/978-3-540-75132-8_21,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_21,No,Yes,No
+372,ECSA,2007,Isabelle CìtÇMaritta HeiselIna Wentzlaff,Pattern-Based Evolution of Software Architectures,10.1007/978-3-540-75132-8_4,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_4,No,Yes,No
+373,ECSA,2007,Katrina FalknerDharini BalasubramaniamHenry DetmoldDavid S. Munro,Informed Evolution,10.1007/978-3-540-75132-8_26,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_26,No,Yes,No
+374,ECSA,2007,Mario Anzures-Garc°aMiguel J. HornosPatricia Paderewski-Rodr°guez,Architecture for Developing Adaptive and Adaptable Collaborative Applications,10.1007/978-3-540-75132-8_22,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_22,No,Yes,No
+375,ECSA,2007,Claus PahlSimon GieseckeWilhelm Hasselbring,An Ontology-Based Approach for Modelling Architectural Styles,10.1007/978-3-540-75132-8_6,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_6,No,Yes,No
+376,ECSA,2007,Chadlia JeradKamel BarkaouiAmel Grissa Touzi,Hierarchical Verification in Maude of LfP Software Architectures,10.1007/978-3-540-75132-8_13,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_13,No,Yes,No
+377,ECSA,2007,Elena NavarroPatricio LetelierJavier JaÇnIsidro Ramos,Supporting the Automatic Generation of Proto-Architectures,10.1007/978-3-540-75132-8_35,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_35,No,Yes,No
+378,ECSA,2007,Miguel A. Mart°nez-PrietoCarlos E. CuestaPablo de la Fuente,Aqueducts: A Layered Pipeline-Based Architecture for XML Processing,10.1007/978-3-540-75132-8_32,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_32,No,Yes,No
+379,ECSA,2007,Rik FarenhorstPatricia LagoHans van Vliet,Effective Tool Support for Architectural Knowledge Sharing,10.1007/978-3-540-75132-8_11,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_11,No,Yes,No
+380,ECSA,2007,Marcos L¢pez-SanzCÇsar J. Acu§aCarlos E. CuestaEsperanza Marcos,UML Profile for the Platform Independent Modelling of Service-Oriented Architectures,10.1007/978-3-540-75132-8_30,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_30,No,Yes,No
+381,ECSA,2007,Gemma GrauXavier Franch,A Goal-Oriented Approach for the Generation and Evaluation of Alternative Architectures,10.1007/978-3-540-75132-8_12,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_12,No,Yes,No
+382,ECSA,2007,Francisco NavaRafael CapillaJuan C. Due§as,Processes for Creating and Exploiting Architectural Design Decisions with Tool Support,10.1007/978-3-540-75132-8_34,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_34,No,Yes,No
+383,ECSA,2007,Fernando LosillaCristina Vicente-ChicoteB†rbara ?lvarezAndrÇs IborraPedro S†nchez,Wireless Sensor Network Application Development: An Architecture-Centric MDE Approach,10.1007/978-3-540-75132-8_15,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_15,No,Yes,No
+384,ECSA,2007,Kristian Ellebëk Kjër,First Class Connectors for Prototyping Service Oriented Architectures,10.1007/978-3-540-75132-8_14,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_14,No,Yes,No
+385,ECSA,2007,Volker GruhnClemens SchÑfer,From Mobile Business Processes to Mobile Information Systems,10.1007/978-3-540-75132-8_28,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_28,No,Yes,No
+386,ECSA,2007,David MansetHervÇ VerjusRichard McClatchey,Managing Separation of Concerns in Grid Applications Through Architectural Model Transformations,10.1007/978-3-540-75132-8_31,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_31,No,Yes,No
+387,ECSA,2007,Francisco J. OrtizJuan A. PastorDiego AlonsoB†rbara ?lvarezPedro S†nchez,Experiences Using a Component-Oriented Architectural Framework for Robots and Its Improvement with a MDE Approach,10.1007/978-3-540-75132-8_37,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_37,No,Yes,No
+388,ECSA,2007,Ambra MolesiniAlessandro GarciaChristina ChavezThais Batista,On the Interplay of Crosscutting and MAS-Specific Styles,10.1007/978-3-540-75132-8_33,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_33,No,Yes,No
+389,ECSA,2007,Imen LoulouAhmed Hadj KacemMohamed JmaielKhalil Drira,Formal Design of Structural and Dynamic Features of Publish/Subscribe Architectural Styles,10.1007/978-3-540-75132-8_5,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_5,No,Yes,No
+390,ECSA,2007,Amparo NavasaMiguel A. PÇrezJuan Manuel Murillo,AspectLEDA: Extending an ADL with Aspectual Concepts,10.1007/978-3-540-75132-8_36,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_36,No,Yes,No
+391,ECSA,2007,Elisabet EstevezMarga Marcos,Model-Driven Approach for Designing Industrial Control Systems,10.1007/978-3-540-75132-8_25,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_25,No,Yes,No
+392,ECSA,2007,SÇrgio LopesAdriano TavaresJo?o MonteiroCarlos Silva,An Architectural Model for Small-Scale Component-Oriented Frameworks,10.1007/978-3-540-75132-8_29,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_29,No,Yes,No
+393,ECSA,2007,Michael P. Papazoglou,What?s in a Service?,10.1007/978-3-540-75132-8_3,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_3,No,Yes,No
+394,ECSA,2007,Adri†n SantosFrancisco AlmeidaVicente Blanco,Lightweight Web Services for High Performace Computing,10.1007/978-3-540-75132-8_18,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_18,No,Yes,No
+395,ECSA,2007,Javier C†maraCarlos CanalJavier CuboJuan Manuel Murillo,Enabling Adaptivity in User Interfaces,10.1007/978-3-540-75132-8_9,http://link.springer.com/chapter/10.1007/978-3-540-75132-8_9,No,Yes,No
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
